@@ -1,0 +1,8 @@
+{
+  "scope": "xorg",
+  "name": "2021-03-27-lambda",
+  "regions": ["bru1"],
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/index.js" }
+  ]
+}

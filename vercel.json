@@ -1,0 +1,7 @@
+{
+  "scope": "xorg",
+  "name": "2021-03-27-socky",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/demo/$1" }
+  ]
+}
